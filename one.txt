@@ -1,1 +1,3 @@
 Wellcome to Zendrix Software
+
+added code by developer 2
